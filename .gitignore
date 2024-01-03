@@ -1,0 +1,4 @@
+# Here ignore node_modules while commiting files
+node_modules
+
+.env
